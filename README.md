@@ -2,7 +2,7 @@
 
 #### Yleistä
 Hei! Olen 24-vuotias tietoliikenne- ja kyberturvallisuusteknologian opiskelija, joka on kiinnostunut tietoturvavalvomossa työskentelystä. 
-#### Taidot
+#### Taidot ja työkalut
 
 
 
