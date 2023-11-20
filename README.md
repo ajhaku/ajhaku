@@ -2,11 +2,12 @@
 
 #### Yleistä
 Hei! Olen 24-vuotias tietoliikenne- ja kyberturvallisuusteknologian opiskelija, joka on kiinnostunut tietoturvavalvomossa työskentelystä. 
+<!--
 #### Taidot ja työkalut
 <img align="left" alt="autopsy" width="30px" style="padding-right:10px;" src="file:///C:/Users/aleks/Downloads/Autopsy%20Digital%20Forensics.svg" />
 
 
-<!--
+
 **ajhaku/ajhaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
