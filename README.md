@@ -11,7 +11,7 @@ Hei! Olen 24-vuotias tietoliikenne- ja kyberturvallisuusteknologian opiskelija, 
 <img align="left" alt="Tietojenkalastelu" width="75px" src="https://img.icons8.com/plasticine/100/phishing.png" style="padding-right:10px;"/>
 <img align="left" alt="Splunk" width="75px"  src="https://github.com/ajhaku/kuvat/blob/1f94a1793e2b3ed7348c95a686c83d8ad4244c2b/2020-splunk-planet.svg" style="padding-right:10px;"/>
 
-<img align="left" alt="Wireshark" width="175px" src="https://github.com/ajhaku/kuvat/blob/87a256e4e10e45712a17f026049918ad830a755c/Wireshark_icon.svg" style="padding-right:10px;"/>
+<img align="left" alt="Wireshark" width="75px" src="https://github.com/ajhaku/kuvat/blob/87a256e4e10e45712a17f026049918ad830a755c/Wireshark_icon.svg" style="padding-right:10px;"/>
 <img align="left" alt="OSINT" width="175px" src="https://github.com/ajhaku/kuvat/blob/7c35d11982d9b98329a7a3f6bde7360eeaf22495/osint-1.svg" style="padding-top:200px;"/>
 
 
