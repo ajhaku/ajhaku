@@ -4,7 +4,7 @@
 Hei! Olen 24-vuotias tietoliikenne- ja kyberturvallisuusteknologian opiskelija, joka on kiinnostunut tietoturvavalvomossa työskentelystä. 
 
 #### Taidot ja työkalut
-<img align="left" alt="autopsy" width="30px" style="padding-right:10px;" src="../kuvat/Autopsy Digital Forensics.svg" />
+<img align="left" alt="autopsy" width="30px" style="padding-right:10px;" src="Autopsy Digital Forensics.svg" />
 
 
 <!--
