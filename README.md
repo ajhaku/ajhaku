@@ -2,7 +2,7 @@
 
 #### Yleistä
 Hei! Olen 24-vuotias tietoliikenne- ja kyberturvallisuusteknologian opiskelija, joka on kiinnostunut tietoturvavalvomossa työskentelystä. 
-
+<!---  
 #### Taidot ja työkalut
 
 
@@ -14,7 +14,7 @@ Hei! Olen 24-vuotias tietoliikenne- ja kyberturvallisuusteknologian opiskelija, 
 <img align="left" alt="Wireshark" width="75px" src="https://github.com/ajhaku/kuvat/blob/87a256e4e10e45712a17f026049918ad830a755c/Wireshark_icon.svg" style="padding-right:10px;"/>
 <img align="left" alt="OSINT" width="175px" src="https://github.com/ajhaku/kuvat/blob/7c35d11982d9b98329a7a3f6bde7360eeaf22495/osint-1.svg" style="padding-top:200px;"/>
 
-
+--->
 
 <!--
 **ajhaku/ajhaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
